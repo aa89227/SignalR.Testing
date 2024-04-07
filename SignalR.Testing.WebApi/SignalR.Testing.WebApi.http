@@ -1,0 +1,6 @@
+@SignalR.Testing.WebApi_HostAddress = http://localhost:5060
+
+GET {{SignalR.Testing.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
